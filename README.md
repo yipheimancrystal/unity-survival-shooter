@@ -1,4 +1,4 @@
-![](https://i0.wp.com/www.noobpaint.com/wp-content/uploads/2016/07/db4d3087-b820-42e1-a105-5a1debb64e4d.jpg
+![](https://i0.wp.com/www.noobpaint.com/wp-content/uploads/2016/07/db4d3087-b820-42e1-a105-5a1debb64e4d.jpg)
 
 # Survival Shooter — NO AUDIO
 A 3D survival shooter game (based on Unity's official tutorial) with **all audio removed**.
